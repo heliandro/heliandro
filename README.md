@@ -1,6 +1,6 @@
 ## Hi there, i'm Heliandro
 
-Experienced Full-stack Web and Mobile Application developer. Cloud Enthusiast.
+Experienced Full Cycle Developer. Cloud Enthusiast.
 
 <div>
   <a href="https://www.linkedin.com/in/heliandro-lavor-280b34b6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
